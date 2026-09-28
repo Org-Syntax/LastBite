@@ -1,5 +1,5 @@
-*                             @Org-Syntax/SM-PO1-Jhamilton @Org-Syntax/CodeOwners(cw)
-/src/                         @Org-Syntax/SM-PO1-Jhamilton @Org-Syntax/CodeOwners(cw)
-/docs/                        @Org-Syntax/SM-PO1-Jhamilton @Org-Syntax/CodeOwners(cw)
-/.github/                     @Org-Syntax/CodeOwners(cw)
-/docs/rubrica-evaluacion.md   @Org-Syntax/CodeOwners(cw)
+*                       @SM-P01-Jhamilton @Org-Syntax/codeowners-cw
+/src/                   @SM-P01-Jhamilton @Org-Syntax/codeowners-cw
+/docs/                  @SM-P01-Jhamilton @Org-Syntax/codeowners-cw
+/.github/               @Org-Syntax/codeowners-cw
+/docs/rubrica-evaluacion.md @Org-Syntax/codeowners-cw
